@@ -11,7 +11,7 @@ import org.junit.Test;
  * 第 1 位客户的资产总量 = 1 + 2 + 3 = 6
  * 第 2 位客户的资产总量 = 3 + 2 + 1 = 6
  * 两位客户都是最富有的，资产总量都是 6 ，所以返回 6 。
- * @date 31/3/2023 12:30 下午1
+ * @date 31/3/2023 12:30 下午
  */
 public class RichestCustomerWealth {
     @Test
