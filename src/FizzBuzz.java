@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author haona
+ * @author randall261
  * @ClassName FizzBuzz
  * @Description 给你一个整数 n ，找出从 1 到 n 各个整数的 Fizz Buzz 表示，并用字符串数组 answer（下标从 1 开始）返回结果，其中：
  * answer[i] == "FizzBuzz" 如果 i 同时是 3 和 5 的倍数。

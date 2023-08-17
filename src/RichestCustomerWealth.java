@@ -1,7 +1,7 @@
 import org.junit.Test;
 
 /**
- * @author haona
+ * @author randall261
  * @ClassName RichestCustomerWealth
  * @Description 1672. 最富有客户的资产总量
  * 链接：https://leetcode.cn/problems/richest-customer-wealth
